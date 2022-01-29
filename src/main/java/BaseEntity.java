@@ -5,8 +5,16 @@ public class BaseEntity implements Serializable {
 
     public BaseEntity() {}
 
+    public BaseEntity(Long id) {
+        this.id = id;
+    }
+
     public static void foo() {
 
+    }
+
+    public Long getId() {
+        return id;
     }
 
 }
