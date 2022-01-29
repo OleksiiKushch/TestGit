@@ -9,5 +9,6 @@ public class Book extends BaseEntity {
                 System.out.print(0);
             }
         }
+
     }
 }
