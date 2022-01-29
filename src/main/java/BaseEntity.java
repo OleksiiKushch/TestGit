@@ -10,7 +10,7 @@ public class BaseEntity implements Serializable {
     }
 
     public static void foo() {
-
+        System.out.println("BaseEntity#foo()!");
     }
 
     public Long getId() {
