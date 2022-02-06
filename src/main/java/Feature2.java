@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class Feature2 {
+public class Feature2 {
 }
