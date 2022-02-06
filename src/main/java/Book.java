@@ -14,7 +14,7 @@ public class Book extends BaseEntity {
     }
 
     public void testStash() {
-        System.out.println("stash test!");
+        System.out.println("update stash");
     }
 
 }
